@@ -4,7 +4,7 @@ Description: <br> A random choice picker created using JavaScript wherein you ca
 
 ![brave_najXuxK5S0](https://user-images.githubusercontent.com/110365482/195349184-bbcf8279-44d1-4c8d-b5f5-2151dd1733dd.gif)
 
-<strong>Credits:</strong><br>
+# Acknowledgements
 
 Traversy Media Youtube Account: https://www.youtube.com/c/TraversyMedia <br><br>
   Link to the tutorial: https://www.youtube.com/watch?v=JkeyKeK3V24
